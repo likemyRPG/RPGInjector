@@ -1,5 +1,12 @@
 # RPGInjector - Roblox Script Injector (Outdated)
 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+## Features
+- Easy-to-use interface for injecting scripts into Roblox games.
+- Written in C# for efficiency and reliability.
+- Designed with a focus on user-friendliness and functionality.
+  
 ## Overview
 Welcome to RPGInjector, a powerful Roblox script injector for educational purposes. Please be aware that this project is no longer actively developed or maintained. The codebase might be outdated, and it may not be compatible with the latest changes in Roblox or related platforms. Feel free to explore the existing code and use it for educational purposes or reference.
 
@@ -17,6 +24,14 @@ This repository serves as an archive of the original RPGInjector project, provid
 
 ## Explore at Your Own Pace
 Feel free to explore the existing codebase, learn from it, and use it for personal educational purposes. However, please refrain from using it for any malicious or unauthorized activities.
+
+## Getting Started
+To get started with RPGInjector, follow the steps below:
+
+1. Clone this repository to your local machine.
+2. Open the project in your preferred C# IDE.
+3. Build the project to obtain the executable file.
+4. Launch RPGInjector and enjoy injecting scripts into your Roblox games responsibly!
 
 ---
 *Note: This About Me file template acknowledges that the project is no longer being actively developed, and users should exercise caution while using the code. It also encourages responsible usage and learning from the codebase while respecting the original developers' efforts.*
